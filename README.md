@@ -1,4 +1,4 @@
-# Rnadom card game
+# Random card game Hack
 
 In this game, a card is pciked at random and users try to guess it's value. The user who guss correctly gets 0.1 ether. However, since the randomness is generated on chain, it can be predicted.
 
